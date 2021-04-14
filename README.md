@@ -1,8 +1,11 @@
 # Awesome-RDW
 Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
-## Algorithms
+## Survey
+### 2018
+- Nilsson, Niels Christian, et al. [15 years of research on redirected walking in immersive virtual environments](https://www.gwern.net/docs/technology/2018-nilsson.pdf). IEEE computer graphics and applications 38.2 (2018): 44-56.
 
+## Algorithms
 ### 2005
 - Razzaque, Sharif, Zachariah Kohn, and Mary C. Whitton. [Redirected walking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.4818&rep=rep1&type=pdf). Chapel Hill: University of North Carolina at Chapel Hill, 2005.
 
@@ -10,7 +13,6 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 - Williams, Niall L., Aniket Bera, and Dinesh Manocha. [ARC: Alignment-based Redirection Controller for Redirected Walking in Complex Environments](https://arxiv.org/pdf/2101.04912.pdf). arXiv preprint arXiv:2101.04912 (2021).
 
 ## Detection Thresholds
-
 ### 2009
 - Steinicke, Frank, et al. [Estimation of detection thresholds for redirected walking techniques](https://d1wqtxts1xzle7.cloudfront.net/47877281/Estimation_of_detection_thresholds_for_r20160807-3153-1ilje8t.pdf?1470639242=&response-content-disposition=inline%3B+filename%3DEstimation_of_Detection_Thresholds_for_R.pdf&Expires=1618404538&Signature=ZgS3XGKS5~tyvwOYedCBoZajeu6Abuv9KlhHS2X3Fg88jcVB9HQ9TuBFfcIHAPqY-l1PPT-FXb8qtQi5PZ5WyTziR25CsJ-Rfyxu9S1KiwhCP~2fveEZc24o994CApNWr9P7PEsqh-sbbGRc7J~NTA-IQQMfy0hGN1tfIrD6TSICjq0OgSXvFcEG-rr2yPxVz35~JteJRwt1mEX~Wiwx~HoX-Or2MLeFZ2VgCAmcUwhhzMNRdveJctRkI4xNeb~dxz34spVgtcI6j-V2f-txrWit40YdhL-BKfsxx8xrWiAAov55k7IdjAnRZs7GmKjLGL5vK5H90ftysodeSJ-oWw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). IEEE transactions on visualization and computer graphics 16.1 (2009): 17-27.
 
