@@ -1,4 +1,4 @@
-# Awesome-RDW
+# Awesome-Redirected Walking
 Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
 ## Survey
