@@ -1,5 +1,5 @@
 # Awesome-RDW
-Awesome-RDW contains awesome papers about redirected walking.
+Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
 ## Algorithms
 
