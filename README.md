@@ -61,4 +61,6 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 ## Others
 - Rewkowski, Nicholas, et al. [Evaluating the Effectiveness of Redirected Walking with Auditory Distractors for Navigation in Virtual Environments](https://ieeexplore.ieee.org/abstract/document/8798286). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
 
+- Zhang, Jingxin, et al. [Detection thresholds for rotation and translation gains in 360 video-based telepresence systems](https://ieeexplore.ieee.org/abstract/document/8314105/). IEEE transactions on visualization and computer graphics 24.4 (2018): 1671-1680.
+
 - Yu, Run, et al. [Experiencing an invisible World War I battlefield through narrative-driven redirected walking in virtual reality](https://ieeexplore.ieee.org/document/8448288). 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2018.
