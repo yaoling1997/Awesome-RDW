@@ -17,8 +17,15 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
 - Azmandian, Mahdi, Timofey Grechkin, and Evan Suma Rosenberg. [An evaluation of strategies for two-user redirected walking in shared physical spaces](https://illusioneering.cs.umn.edu/papers/azmandian-vr2017.pdf). 2017 IEEE Virtual Reality (VR). IEEE, 2017.
 
-- Razzaque, Sharif, Zachariah Kohn, and Mary C. Whitton. [Redirected walking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.4818&rep=rep1&type=pdf). Chapel Hill: University of North Carolina at Chapel Hill, 2005.
+- Hodgson, Eric, Eric Bachmann, and Tyler Thrash. [Performance of redirected walking algorithms in a constrained virtual world](https://ieeexplore.ieee.org/abstract/document/6777456). IEEE transactions on visualization and computer graphics 20.4 (2014): 579-587.
 
+- Hodgson, Eric, and Eric Bachmann. [Comparing four approaches to generalized redirected walking: Simulation and live user data](http://www.cs.ucf.edu/courses/cap6121/spr19/readings/hodgson.pdf). IEEE transactions on visualization and computer graphics 19.4 (2013): 634-643.
+
+- Suma, Evan A., et al. [Impossible spaces: Maximizing natural walking in virtual environments with self-overlapping architecture](https://ieeexplore.ieee.org/abstract/document/6165136). IEEE Transactions on Visualization and Computer Graphics 18.4 (2012): 555-564.
+
+- Suma, Evan A., et al. [A taxonomy for deploying redirection techniques in immersive virtual environments](https://www.academia.edu/download/46411372/A_taxonomy_for_deploying_redirection_tec20160612-12333-80hgl8.pdf). 2012 IEEE Virtual Reality Workshops (VRW). IEEE, 2012.
+
+- Razzaque, Sharif, Zachariah Kohn, and Mary C. Whitton. [Redirected walking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.4818&rep=rep1&type=pdf). Chapel Hill: University of North Carolina at Chapel Hill, 2005.
 
 
 ### Deep Learning
@@ -48,6 +55,8 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 - Bolte, Benjamin, and Markus Lappe. [Subliminal reorientation and repositioning in immersive virtual environments using saccadic suppression](https://www.uni-muenster.de/imperia/md/content/psyifp/ae_lappe/freie_dokumente/paper116_1_.pdf). IEEE transactions on visualization and computer graphics 21.4 (2015): 545-552.
 
 - Bruder, Gerd, Paul Lubos, and Frank Steinicke. [Cognitive resource demands of redirected walking](https://ieeexplore.ieee.org/abstract/document/7036075). IEEE transactions on visualization and computer graphics 21.4 (2015): 539-544.
+
+- Bruder, Gerd, et al. [Redirecting walking and driving for natural navigation in immersive virtual environments](https://www.researchgate.net/publication/221688626_Redirecting_Walking_and_Driving_for_Natural_Navigation_in_Immersive_Virtual_Environments). IEEE transactions on visualization and computer graphics 18.4 (2012): 538-545.
 
 - Steinicke, Frank, et al. [Estimation of detection thresholds for redirected walking techniques](https://d1wqtxts1xzle7.cloudfront.net/47877281/Estimation_of_detection_thresholds_for_r20160807-3153-1ilje8t.pdf?1470639242=&response-content-disposition=inline%3B+filename%3DEstimation_of_Detection_Thresholds_for_R.pdf&Expires=1618404538&Signature=ZgS3XGKS5~tyvwOYedCBoZajeu6Abuv9KlhHS2X3Fg88jcVB9HQ9TuBFfcIHAPqY-l1PPT-FXb8qtQi5PZ5WyTziR25CsJ-Rfyxu9S1KiwhCP~2fveEZc24o994CApNWr9P7PEsqh-sbbGRc7J~NTA-IQQMfy0hGN1tfIrD6TSICjq0OgSXvFcEG-rr2yPxVz35~JteJRwt1mEX~Wiwx~HoX-Or2MLeFZ2VgCAmcUwhhzMNRdveJctRkI4xNeb~dxz34spVgtcI6j-V2f-txrWit40YdhL-BKfsxx8xrWiAAov55k7IdjAnRZs7GmKjLGL5vK5H90ftysodeSJ-oWw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). IEEE transactions on visualization and computer graphics 16.1 (2009): 17-27.
 
