@@ -27,6 +27,8 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
 - Suma, Evan A., et al. [Leveraging change blindness for redirection in virtual environments](https://d1wqtxts1xzle7.cloudfront.net/31011923/Leveraging_Change_Blindness_for_Redirection_in_Virtual_Environments.pdf?1364019056=&response-content-disposition=inline%3B+filename%3DLeveraging_change_blindness_for_redirect.pdf&Expires=1619172543&Signature=cjR0Y9NNS3FhzLFXyKHyXLvPh77TYmMWeEHSx~XMQCgl66pI3Ay3xrT5qp2VRE6kDXe-DOQfD9sFRzWMYLEOFrQ7RKJGUQJHyahEBPkW-duW4zee8hXzdvmFqo5C9E-oa8iwEmYE9QbBStc5bNK5I~5N82KEJg72iLWZQLsWeer2g0flJgQUqKBCHAC0X1HSYRxUQOiBdOgtvtd83miJAw~g-9BaDMZy~N7kl3g6Aa3pdgw8uDocK5WMlh5tZuHwfz~JJnRELCWsp~hap2Jb1UaY0pwAqOKDJP8AYOs3FT3wZbdRgmdifzdDUGjSCMv97gAZo5MpwOPT5I7k4nCZaA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). 2011 IEEE Virtual Reality Conference. IEEE, 2011.
 
+- Peck, Tabitha C., Henry Fuchs, and Mary C. Whitton. [Improved redirection with distractors: A large-scale-real-walking locomotion interface and its effect on navigation in virtual environments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242097/). 2010 IEEE Virtual Reality Conference (VR). IEEE, 2010.
+
 - Razzaque, Sharif, Zachariah Kohn, and Mary C. Whitton. [Redirected walking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.4818&rep=rep1&type=pdf). Chapel Hill: University of North Carolina at Chapel Hill, 2005.
 
 
