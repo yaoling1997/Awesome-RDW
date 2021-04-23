@@ -33,6 +33,10 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 ## Detection Thresholds
 - Bölling, Luke, et al. [Shrinking circles: Adaptation to increased curvature gain in redirected walking](https://drive.google.com/file/d/1RIhCt7TlVg_Xt44zO-K6UL584jG3vyzh/view). IEEE transactions on visualization and computer graphics 25.5 (2019): 2032-2039.
 
+- Schmitz, Patric, et al. [You spin my head right round: Threshold of limited immersion for rotation gains in redirected walking](http://www.graphics.rwth-aachen.de/media/papers/SHCV2018-ThresholdOfLimitedImmersion.pdf). IEEE transactions on visualization and computer graphics 24.4 (2018): 1623-1632.
+
+- Janeh, Omar, et al. [Analyses of gait parameters of younger and older adults during (non-) isometric virtual walking](https://sreal.ucf.edu/wp-content/uploads/2019/01/Janeh2018a.pdf). IEEE transactions on visualization and computer graphics 24.10 (2017): 2663-2674.
+
 - Kruse, Lucie, Eike Langbehn, and Frank Steinicke. [I can see on my feet while walking: Sensitivity to translation gains with visible feet](https://basilic.informatik.uni-hamburg.de/Publications/2018/KLS18/template.pdf). 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2018.
 
 - Langbehn, Eike, et al. [Bending the curve: Sensitivity to bending of curved paths and application in room-scale vr](https://ieeexplore.ieee.org/abstract/document/7833190/). IEEE transactions on visualization and computer graphics 23.4 (2017): 1389-1398.
@@ -53,3 +57,8 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 - Min, Dae-Hong, et al. [Shaking Hands in Virtual Space: Recovery in Redirected Walking for Direct Interaction between Two Users](https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a164/560800a164.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
 
 - Steinicke, Frank, et al. [Moving towards generally applicable redirected walking](https://www.researchgate.net/profile/Gerd-Bruder/publication/216813872_Moving_Towards_Generally_Applicable_Redirected_Walking/links/548594b00cf283750c372ad5/Moving-Towards-Generally-Applicable-Redirected-Walking.pdf). Proceedings of the Virtual Reality International Conference (VRIC). IEEE Press, 2008.
+
+## Others
+- Rewkowski, Nicholas, et al. [Evaluating the Effectiveness of Redirected Walking with Auditory Distractors for Navigation in Virtual Environments](https://ieeexplore.ieee.org/abstract/document/8798286). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
+
+- Yu, Run, et al. [Experiencing an invisible World War I battlefield through narrative-driven redirected walking in virtual reality](https://ieeexplore.ieee.org/document/8448288). 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2018.
