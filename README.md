@@ -9,6 +9,13 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
 - Razzaque, Sharif, Zachariah Kohn, and Mary C. Whitton. [Redirected walking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.4818&rep=rep1&type=pdf). Chapel Hill: University of North Carolina at Chapel Hill, 2005.
 
+### Deep Learning
+- Strauss, Ryan R., et al. [A steering algorithm for redirected walking using reinforcement learning](https://tabithapeck.com/wp-content/uploads/2020/04/tvcg-strauss-2973060-x.pdf). IEEE transactions on visualization and computer graphics 26.5 (2020): 1955-1963.
+
+### Distortion
+- Cao, Antong, et al. [Feature Guided Path Redirection for VR Navigation](https://www.cs.purdue.edu/cgvlab/papers/popescu/2020IEEEVRFeatureGuidedPathRedirectionPopescu.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
+
+
 ## Detection Thresholds
 - Kruse, Lucie, Eike Langbehn, and Frank Steinicke. [I can see on my feet while walking: Sensitivity to translation gains with visible feet](https://basilic.informatik.uni-hamburg.de/Publications/2018/KLS18/template.pdf). 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2018.
 
