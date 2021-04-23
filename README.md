@@ -15,6 +15,8 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
 - Bachmann, Eric R., et al. [Multi-user redirected walking and resetting using artificial potential fields](https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/VRLocomotion/MultiuserRedirectedWalking/APFRedirectedWalking2019.pdf). IEEE transactions on visualization and computer graphics 25.5 (2019): 2022-2031.
 
+- Azmandian, Mahdi, Timofey Grechkin, and Evan Suma Rosenberg. [An evaluation of strategies for two-user redirected walking in shared physical spaces](https://illusioneering.cs.umn.edu/papers/azmandian-vr2017.pdf). 2017 IEEE Virtual Reality (VR). IEEE, 2017.
+
 - Razzaque, Sharif, Zachariah Kohn, and Mary C. Whitton. [Redirected walking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.4818&rep=rep1&type=pdf). Chapel Hill: University of North Carolina at Chapel Hill, 2005.
 
 
@@ -39,8 +41,13 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
 - Kruse, Lucie, Eike Langbehn, and Frank Steinicke. [I can see on my feet while walking: Sensitivity to translation gains with visible feet](https://basilic.informatik.uni-hamburg.de/Publications/2018/KLS18/template.pdf). 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2018.
 
+- Zhang, Jingxin, et al. [Detection thresholds for rotation and translation gains in 360 video-based telepresence systems](https://ieeexplore.ieee.org/abstract/document/8314105/). IEEE transactions on visualization and computer graphics 24.4 (2018): 1671-1680.
+
 - Langbehn, Eike, et al. [Bending the curve: Sensitivity to bending of curved paths and application in room-scale vr](https://ieeexplore.ieee.org/abstract/document/7833190/). IEEE transactions on visualization and computer graphics 23.4 (2017): 1389-1398.
 
+- Bolte, Benjamin, and Markus Lappe. [Subliminal reorientation and repositioning in immersive virtual environments using saccadic suppression](https://www.uni-muenster.de/imperia/md/content/psyifp/ae_lappe/freie_dokumente/paper116_1_.pdf). IEEE transactions on visualization and computer graphics 21.4 (2015): 545-552.
+
+- Bruder, Gerd, Paul Lubos, and Frank Steinicke. [Cognitive resource demands of redirected walking](https://ieeexplore.ieee.org/abstract/document/7036075). IEEE transactions on visualization and computer graphics 21.4 (2015): 539-544.
 
 - Steinicke, Frank, et al. [Estimation of detection thresholds for redirected walking techniques](https://d1wqtxts1xzle7.cloudfront.net/47877281/Estimation_of_detection_thresholds_for_r20160807-3153-1ilje8t.pdf?1470639242=&response-content-disposition=inline%3B+filename%3DEstimation_of_Detection_Thresholds_for_R.pdf&Expires=1618404538&Signature=ZgS3XGKS5~tyvwOYedCBoZajeu6Abuv9KlhHS2X3Fg88jcVB9HQ9TuBFfcIHAPqY-l1PPT-FXb8qtQi5PZ5WyTziR25CsJ-Rfyxu9S1KiwhCP~2fveEZc24o994CApNWr9P7PEsqh-sbbGRc7J~NTA-IQQMfy0hGN1tfIrD6TSICjq0OgSXvFcEG-rr2yPxVz35~JteJRwt1mEX~Wiwx~HoX-Or2MLeFZ2VgCAmcUwhhzMNRdveJctRkI4xNeb~dxz34spVgtcI6j-V2f-txrWit40YdhL-BKfsxx8xrWiAAov55k7IdjAnRZs7GmKjLGL5vK5H90ftysodeSJ-oWw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). IEEE transactions on visualization and computer graphics 16.1 (2009): 17-27.
 
@@ -60,7 +67,5 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 
 ## Others
 - Rewkowski, Nicholas, et al. [Evaluating the Effectiveness of Redirected Walking with Auditory Distractors for Navigation in Virtual Environments](https://ieeexplore.ieee.org/abstract/document/8798286). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
-
-- Zhang, Jingxin, et al. [Detection thresholds for rotation and translation gains in 360 video-based telepresence systems](https://ieeexplore.ieee.org/abstract/document/8314105/). IEEE transactions on visualization and computer graphics 24.4 (2018): 1671-1680.
 
 - Yu, Run, et al. [Experiencing an invisible World War I battlefield through narrative-driven redirected walking in virtual reality](https://ieeexplore.ieee.org/document/8448288). 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2018.
