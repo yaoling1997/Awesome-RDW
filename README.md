@@ -42,6 +42,12 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 ### Distortion
 - Cao, Antong, et al. [Feature Guided Path Redirection for VR Navigation](https://www.cs.purdue.edu/cgvlab/papers/popescu/2020IEEEVRFeatureGuidedPathRedirectionPopescu.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
 
+- Dong, Zhi-Chao, et al. [Redirected smooth mappings for multiuser real walking in virtual reality](https://dl.acm.org/doi/abs/10.1145/3345554). ACM Transactions on Graphics (TOG) 38.5 (2019): 1-17.
+
+- Dong, Zhi-Chao, et al. [Smooth assembled mappings for large-scale real walking](https://dl.acm.org/doi/abs/10.1145/3130800.3130893). ACM Transactions on Graphics (TOG) 36.6 (2017): 1-13.
+
+- Sun, Qi, Li-Yi Wei, and Arie Kaufman. [Mapping virtual and physical reality](https://dl.acm.org/doi/pdf/10.1145/2897824.2925883). ACM Transactions on Graphics (TOG) 35.4 (2016): 1-12.
+
 
 ## Detection Thresholds
 - Bölling, Luke, et al. [Shrinking circles: Adaptation to increased curvature gain in redirected walking](https://drive.google.com/file/d/1RIhCt7TlVg_Xt44zO-K6UL584jG3vyzh/view). IEEE transactions on visualization and computer graphics 25.5 (2019): 2032-2039.
