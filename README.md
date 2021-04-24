@@ -1,5 +1,5 @@
 # Awesome-Redirected Walking
-Awesome-RDW contains awesome papers about redirected walking (incomplete).
+Awesome-RDW contains awesome papers about redirected walking.
 
 ## Survey
 - Nilsson, Niels Christian, et al. [15 years of research on redirected walking in immersive virtual environments](https://www.gwern.net/docs/technology/2018-nilsson.pdf). IEEE computer graphics and applications 38.2 (2018): 44-56.
@@ -14,6 +14,8 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 - Messinger, Justin, Eric Hodgson, and Eric R. Bachmann. [Effects of tracking area shape and size on artificial potential field redirected walking](https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/VRLocomotion/MultiuserRedirectedWalking/TrackingAreaShapeSizeEffects2019.pdf). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
 
 - Bachmann, Eric R., et al. [Multi-user redirected walking and resetting using artificial potential fields](https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/VRLocomotion/MultiuserRedirectedWalking/APFRedirectedWalking2019.pdf). IEEE transactions on visualization and computer graphics 25.5 (2019): 2022-2031.
+
+- Sun, Qi, et al. [Towards virtual reality infinite walking: dynamic saccadic redirection](https://dl.acm.org/doi/abs/10.1145/3197517.3201294). ACM Transactions on Graphics (TOG) 37.4 (2018): 1-13.
 
 - Azmandian, Mahdi, Timofey Grechkin, and Evan Suma Rosenberg. [An evaluation of strategies for two-user redirected walking in shared physical spaces](https://illusioneering.cs.umn.edu/papers/azmandian-vr2017.pdf). 2017 IEEE Virtual Reality (VR). IEEE, 2017.
 
@@ -53,6 +55,8 @@ Awesome-RDW contains awesome papers about redirected walking (incomplete).
 - Bölling, Luke, et al. [Shrinking circles: Adaptation to increased curvature gain in redirected walking](https://drive.google.com/file/d/1RIhCt7TlVg_Xt44zO-K6UL584jG3vyzh/view). IEEE transactions on visualization and computer graphics 25.5 (2019): 2032-2039.
 
 - Schmitz, Patric, et al. [You spin my head right round: Threshold of limited immersion for rotation gains in redirected walking](http://www.graphics.rwth-aachen.de/media/papers/SHCV2018-ThresholdOfLimitedImmersion.pdf). IEEE transactions on visualization and computer graphics 24.4 (2018): 1623-1632.
+
+- Langbehn, Eike, et al. [In the blink of an eye: leveraging blink-induced suppression for imperceptible position and orientation redirection in virtual reality](https://par.nsf.gov/servlets/purl/10105866). ACM Transactions on Graphics (TOG) 37.4 (2018): 1-11.
 
 - Janeh, Omar, et al. [Analyses of gait parameters of younger and older adults during (non-) isometric virtual walking](https://sreal.ucf.edu/wp-content/uploads/2019/01/Janeh2018a.pdf). IEEE transactions on visualization and computer graphics 24.10 (2017): 2663-2674.
 
