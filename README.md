@@ -57,8 +57,6 @@ Awesome-RDW contains awesome papers about redirected walking.
 ## Detection Thresholds
 - Bölling, Luke, et al. [Shrinking circles: Adaptation to increased curvature gain in redirected walking](https://drive.google.com/file/d/1RIhCt7TlVg_Xt44zO-K6UL584jG3vyzh/view). IEEE transactions on visualization and computer graphics 25.5 (2019): 2032-2039.
 
-- Schmitz, Patric, et al. [You spin my head right round: Threshold of limited immersion for rotation gains in redirected walking](http://www.graphics.rwth-aachen.de/media/papers/SHCV2018-ThresholdOfLimitedImmersion.pdf). IEEE transactions on visualization and computer graphics 24.4 (2018): 1623-1632.
-
 - Langbehn, Eike, et al. [In the blink of an eye: leveraging blink-induced suppression for imperceptible position and orientation redirection in virtual reality](https://par.nsf.gov/servlets/purl/10105866). ACM Transactions on Graphics (TOG) 37.4 (2018): 1-11.
 
 - Janeh, Omar, et al. [Analyses of gait parameters of younger and older adults during (non-) isometric virtual walking](https://sreal.ucf.edu/wp-content/uploads/2019/01/Janeh2018a.pdf). IEEE transactions on visualization and computer graphics 24.10 (2017): 2663-2674.
@@ -78,6 +76,12 @@ Awesome-RDW contains awesome papers about redirected walking.
 - Neth, Christian T., et al. [Velocity-dependent dynamic curvature gain for redirected walking](https://d1wqtxts1xzle7.cloudfront.net/42929836/Velocity-Dependent_Dynamic_Curvature_Gai20160222-12462-1kzncu7.pdf?1456136276=&response-content-disposition=inline%3B+filename%3DVelocity_Dependent_Dynamic_Curvature_Gai.pdf&Expires=1619172327&Signature=T-2lhnx7XdWNz~-qkdBSTtzAtuAzCC1kPNFWsR-v-AuuLtq~g0pNWU6aoXwiSCN4XFyikFJBIyOtDsq0Ch9uJ3ciqd~PwdmnXQS-2YMqXQOpy8~VGmmU6GbsOSQP-7ychIlqn04xuNvGaX388HW2rjiPQjHJXuSu0B7TFVVD2WD2N4YU5IsGUC8BWOeQJJR8e5yTV8KodLpcC-FFL-rktQSqxuIIjR1I4AFfx1HYuIqQcFb8vKJwfV4EOPzgKMhcWjSX7LIRFJ2i-bn4yrvTQyyOZzYKuzEokZJ2IvKfuikjtZvJMG9PA2kMoSeWp00PLUan01amDUKgKtnPGs~m~g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). IEEE transactions on visualization and computer graphics 18.7 (2012): 1041-1052.
 
 - Steinicke, Frank, et al. [Estimation of detection thresholds for redirected walking techniques](https://d1wqtxts1xzle7.cloudfront.net/47877281/Estimation_of_detection_thresholds_for_r20160807-3153-1ilje8t.pdf?1470639242=&response-content-disposition=inline%3B+filename%3DEstimation_of_Detection_Thresholds_for_R.pdf&Expires=1618404538&Signature=ZgS3XGKS5~tyvwOYedCBoZajeu6Abuv9KlhHS2X3Fg88jcVB9HQ9TuBFfcIHAPqY-l1PPT-FXb8qtQi5PZ5WyTziR25CsJ-Rfyxu9S1KiwhCP~2fveEZc24o994CApNWr9P7PEsqh-sbbGRc7J~NTA-IQQMfy0hGN1tfIrD6TSICjq0OgSXvFcEG-rr2yPxVz35~JteJRwt1mEX~Wiwx~HoX-Or2MLeFZ2VgCAmcUwhhzMNRdveJctRkI4xNeb~dxz34spVgtcI6j-V2f-txrWit40YdhL-BKfsxx8xrWiAAov55k7IdjAnRZs7GmKjLGL5vK5H90ftysodeSJ-oWw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). IEEE transactions on visualization and computer graphics 16.1 (2009): 17-27.
+
+### Overt
+- Schmitz, Patric, et al. [You spin my head right round: Threshold of limited immersion for rotation gains in redirected walking](http://www.graphics.rwth-aachen.de/media/papers/SHCV2018-ThresholdOfLimitedImmersion.pdf). IEEE transactions on visualization and computer graphics 24.4 (2018): 1623-1632.
+
+- Rietzler, Michael, et al. [Rethinking redirected walking: On the use of curvature gains beyond perceptual limitations and revisiting bending gains](https://www.researchgate.net/profile/Enrico_Rukzio/publication/330477362_Rethinking_Redirected_Walking_On_the_Use_of_Curvature_Gains_Beyond_Perceptual_Limitations_and_Revisiting_Bending_Gains/links/5ddd1394a6fdcc2837eab471/Rethinking-Redirected-Walking-On-the-Use-of-Curvature-Gains-Beyond-Perceptual-Limitations-and-Revisiting-Bending-Gains.pdf). 2018 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2018.
+
 
 ## Redirected Jumping
 - Matsumoto, Keigo, et al. [Detection Thresholds for Vertical Gains in VR and Drone-based Telepresence Systems](https://www.researchgate.net/profile/Keigo-Matsumoto-2/publication/342054764_Detection_Thresholds_for_Vertical_Gains_in_VR_and_Drone-based_Telepresence_Systems/links/5fbcc239299bf104cf6eab33/Detection-Thresholds-for-Vertical-Gains-in-VR-and-Drone-based-Telepresence-Systems.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
