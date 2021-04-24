@@ -4,6 +4,9 @@ Awesome-RDW contains awesome papers about redirected walking.
 ## Survey
 - Nilsson, Niels Christian, et al. [15 years of research on redirected walking in immersive virtual environments](https://www.gwern.net/docs/technology/2018-nilsson.pdf). IEEE computer graphics and applications 38.2 (2018): 44-56.
 
+## Toolkit
+- Azmandian, Mahdi, et al. [The redirected walking toolkit: a unified development platform for exploring large virtual environments](https://ieeexplore.ieee.org/abstract/document/7859537/). 2016 IEEE 2nd Workshop on Everyday Virtual Reality (WEVR). IEEE, 2016.
+
 ## Algorithms
 - Williams, Niall L., Aniket Bera, and Dinesh Manocha. [ARC: Alignment-based Redirection Controller for Redirected Walking in Complex Environments](https://arxiv.org/pdf/2101.04912.pdf). arXiv preprint arXiv:2101.04912 (2021).
 
