@@ -67,6 +67,8 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 - Langbehn, Eike, et al. [Bending the curve: Sensitivity to bending of curved paths and application in room-scale vr](https://ieeexplore.ieee.org/abstract/document/7833190/). IEEE transactions on visualization and computer graphics 23.4 (2017): 1389-1398.
 
+- Grechkin, Timofey, et al. [Revisiting detection thresholds for redirected walking: Combining translation and curvature gains](http://www.jeraldthomas.com/files/grechkin2016revisiting.pdf). Proceedings of the ACM Symposium on Applied Perception. 2016.
+
 - Bolte, Benjamin, and Markus Lappe. [Subliminal reorientation and repositioning in immersive virtual environments using saccadic suppression](https://www.uni-muenster.de/imperia/md/content/psyifp/ae_lappe/freie_dokumente/paper116_1_.pdf). IEEE transactions on visualization and computer graphics 21.4 (2015): 545-552.
 
 - Bruder, Gerd, Paul Lubos, and Frank Steinicke. [Cognitive resource demands of redirected walking](https://ieeexplore.ieee.org/abstract/document/7036075). IEEE transactions on visualization and computer graphics 21.4 (2015): 539-544.
