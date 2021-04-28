@@ -103,6 +103,10 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 - Steinicke, Frank, et al. [Moving towards generally applicable redirected walking](https://www.researchgate.net/profile/Gerd-Bruder/publication/216813872_Moving_Towards_Generally_Applicable_Redirected_Walking/links/548594b00cf283750c372ad5/Moving-Towards-Generally-Applicable-Redirected-Walking.pdf). Proceedings of the Virtual Reality International Conference (VRIC). IEEE Press, 2008.
 
+
+- Kohli, Luv, et al. [Combining passive haptics with redirected walking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.110.2628&rep=rep1&type=pdf). Proceedings of the 2005 international conference on Augmented tele-existence. 2005.
+
+
 ## Others
 - Rewkowski, Nicholas, et al. [Evaluating the Effectiveness of Redirected Walking with Auditory Distractors for Navigation in Virtual Environments](https://ieeexplore.ieee.org/abstract/document/8798286). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
 
