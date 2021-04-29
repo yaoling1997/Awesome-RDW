@@ -24,6 +24,8 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 - Hodgson, Eric, Eric Bachmann, and Tyler Thrash. [Performance of redirected walking algorithms in a constrained virtual world](https://ieeexplore.ieee.org/abstract/document/6777456). IEEE transactions on visualization and computer graphics 20.4 (2014): 579-587.
 
+- Bachmann, Eric R., et al. [Collision prediction and prevention in a simultaneous two-user immersive virtual environment](https://ieeexplore.ieee.org/abstract/document/6549377). 2013 IEEE Virtual Reality (VR). IEEE, 2013.
+
 - Hodgson, Eric, and Eric Bachmann. [Comparing four approaches to generalized redirected walking: Simulation and live user data](http://www.cs.ucf.edu/courses/cap6121/spr19/readings/hodgson.pdf). IEEE transactions on visualization and computer graphics 19.4 (2013): 634-643.
 
 - Suma, Evan A., et al. [Impossible spaces: Maximizing natural walking in virtual environments with self-overlapping architecture](https://ieeexplore.ieee.org/abstract/document/6165136). IEEE Transactions on Visualization and Computer Graphics 18.4 (2012): 555-564.
