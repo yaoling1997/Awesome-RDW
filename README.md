@@ -90,6 +90,8 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 
 ## Redirected Jumping
+- Li, Yi-Jun, et al. [Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping](https://basilic.informatik.uni-hamburg.de/Publications/2021/LJWCSHZ21/Union_RDJ_Cam_Ready.pdf). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
+
 - Matsumoto, Keigo, et al. [Detection Thresholds for Vertical Gains in VR and Drone-based Telepresence Systems](https://www.researchgate.net/profile/Keigo-Matsumoto-2/publication/342054764_Detection_Thresholds_for_Vertical_Gains_in_VR_and_Drone-based_Telepresence_Systems/links/5fbcc239299bf104cf6eab33/Detection-Thresholds-for-Vertical-Gains-in-VR-and-Drone-based-Telepresence-Systems.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
 
 - Hayashi, Daigo, et al. [Redirected jumping: Imperceptibly manipulating jump motions in virtual reality](https://ieeexplore.ieee.org/abstract/document/8797989). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
