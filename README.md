@@ -8,7 +8,9 @@ Awesome-RDW contains awesome papers about redirected walking.
 - Azmandian, Mahdi, et al. [The redirected walking toolkit: a unified development platform for exploring large virtual environments](https://ieeexplore.ieee.org/abstract/document/7859537/). 2016 IEEE 2nd Workshop on Everyday Virtual Reality (WEVR). IEEE, 2016.
 
 ## Algorithms
-- Williams, Niall L., Aniket Bera, and Dinesh Manocha. [ARC: Alignment-based Redirection Controller for Redirected Walking in Complex Environments](https://arxiv.org/pdf/2101.04912.pdf). arXiv preprint arXiv:2101.04912 (2021).
+Williams, Niall L., Aniket Bera, and Dinesh Manocha. [Arc: Alignment-based redirection controller for redirected walking in complex environments](https://arxiv.org/pdf/2101.04912). IEEE Transactions on Visualization and Computer Graphics 27.5 (2021): 2535-2544.
+
+- Dong, Tianyang, et al. [Dynamic Density-based Redirected Walking Towards Multi-user Virtual Environments](https://ieeexplore.ieee.org/abstract/document/9417802/). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
 
 - Dong, Tianyang, et al. [Dynamic Artificial Potential Fields for Multi-User Redirected Walking](https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a146/560800a146.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
 
@@ -57,6 +59,8 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 
 ## Detection Thresholds
+- Kim, Dooyoung, et al. [Adjusting Relative Translation Gains According to Space Size in Redirected Walking for Mixed Reality Mutual Space Generation](https://ieeexplore.ieee.org/abstract/document/9417781/). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
+
 - Bölling, Luke, et al. [Shrinking circles: Adaptation to increased curvature gain in redirected walking](https://drive.google.com/file/d/1RIhCt7TlVg_Xt44zO-K6UL584jG3vyzh/view). IEEE transactions on visualization and computer graphics 25.5 (2019): 2032-2039.
 
 - Langbehn, Eike, et al. [In the blink of an eye: leveraging blink-induced suppression for imperceptible position and orientation redirection in virtual reality](https://par.nsf.gov/servlets/purl/10105866). ACM Transactions on Graphics (TOG) 37.4 (2018): 1-11.
