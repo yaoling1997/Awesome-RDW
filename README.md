@@ -61,6 +61,8 @@ Awesome-RDW contains awesome papers about redirected walking.
 ## Detection Thresholds
 - Kim, Dooyoung, et al. [Adjusting Relative Translation Gains According to Space Size in Redirected Walking for Mixed Reality Mutual Space Generation](https://ieeexplore.ieee.org/abstract/document/9417781/). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
 
+- Cho, Yong-Hun, et al. [Walking Outside the Box: Estimation of Detection Thresholds for Non-Forward Steps](https://ieeexplore.ieee.org/abstract/document/9417724/). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
+
 - Bölling, Luke, et al. [Shrinking circles: Adaptation to increased curvature gain in redirected walking](https://drive.google.com/file/d/1RIhCt7TlVg_Xt44zO-K6UL584jG3vyzh/view). IEEE transactions on visualization and computer graphics 25.5 (2019): 2032-2039.
 
 - Langbehn, Eike, et al. [In the blink of an eye: leveraging blink-induced suppression for imperceptible position and orientation redirection in virtual reality](https://par.nsf.gov/servlets/purl/10105866). ACM Transactions on Graphics (TOG) 37.4 (2018): 1-11.
