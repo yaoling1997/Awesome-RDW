@@ -12,14 +12,6 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 - Dong, Tianyang, et al. [Dynamic Density-based Redirected Walking Towards Multi-user Virtual Environments](https://ieeexplore.ieee.org/abstract/document/9417802/). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
 
-- Dong, Tianyang, et al. [Dynamic Artificial Potential Fields for Multi-User Redirected Walking](https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a146/560800a146.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
-
-- Thomas, Jerald, and Evan Suma Rosenberg. [A general reactive algorithm for redirected walking using artificial potential functions](http://www.jeraldthomas.com/files/thomas2019general.pdf). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
-
-- Messinger, Justin, Eric Hodgson, and Eric R. Bachmann. [Effects of tracking area shape and size on artificial potential field redirected walking](https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/VRLocomotion/MultiuserRedirectedWalking/TrackingAreaShapeSizeEffects2019.pdf). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
-
-- Bachmann, Eric R., et al. [Multi-user redirected walking and resetting using artificial potential fields](https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/VRLocomotion/MultiuserRedirectedWalking/APFRedirectedWalking2019.pdf). IEEE transactions on visualization and computer graphics 25.5 (2019): 2022-2031.
-
 - Sun, Qi, et al. [Towards virtual reality infinite walking: dynamic saccadic redirection](https://dl.acm.org/doi/abs/10.1145/3197517.3201294). ACM Transactions on Graphics (TOG) 37.4 (2018): 1-13.
 
 - Azmandian, Mahdi, Timofey Grechkin, and Evan Suma Rosenberg. [An evaluation of strategies for two-user redirected walking in shared physical spaces](https://illusioneering.cs.umn.edu/papers/azmandian-vr2017.pdf). 2017 IEEE Virtual Reality (VR). IEEE, 2017.
@@ -40,6 +32,14 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 - Razzaque, Sharif, Zachariah Kohn, and Mary C. Whitton. [Redirected walking](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.4818&rep=rep1&type=pdf). Chapel Hill: University of North Carolina at Chapel Hill, 2005.
 
+### APF(Artificial Potential Functions)
+- Dong, Tianyang, et al. [Dynamic Artificial Potential Fields for Multi-User Redirected Walking](https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a146/560800a146.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
+
+- Thomas, Jerald, and Evan Suma Rosenberg. [A general reactive algorithm for redirected walking using artificial potential functions](http://www.jeraldthomas.com/files/thomas2019general.pdf). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
+
+- Messinger, Justin, Eric Hodgson, and Eric R. Bachmann. [Effects of tracking area shape and size on artificial potential field redirected walking](https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/VRLocomotion/MultiuserRedirectedWalking/TrackingAreaShapeSizeEffects2019.pdf). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
+
+- Bachmann, Eric R., et al. [Multi-user redirected walking and resetting using artificial potential fields](https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/VRLocomotion/MultiuserRedirectedWalking/APFRedirectedWalking2019.pdf). IEEE transactions on visualization and computer graphics 25.5 (2019): 2022-2031.
 
 ### Deep Learning
 - Strauss, Ryan R., et al. [A steering algorithm for redirected walking using reinforcement learning](https://tabithapeck.com/wp-content/uploads/2020/04/tvcg-strauss-2973060-x.pdf). IEEE transactions on visualization and computer graphics 26.5 (2020): 1955-1963.
@@ -98,7 +98,11 @@ Awesome-RDW contains awesome papers about redirected walking.
 ## Redirected Jumping
 - Li, Yi-Jun, et al. [Detection Thresholds with Joint Horizontal and Vertical Gains in Redirected Jumping](https://basilic.informatik.uni-hamburg.de/Publications/2021/LJWCSHZ21/Union_RDJ_Cam_Ready.pdf). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
 
+- Li, Yi-Jun, et al. [Effects of Virtual Environments and Self-representations on Redirected Jumping](https://ieeexplore.ieee.org/abstract/document/9419353/). 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2021.
+
 - Matsumoto, Keigo, et al. [Detection Thresholds for Vertical Gains in VR and Drone-based Telepresence Systems](https://www.researchgate.net/profile/Keigo-Matsumoto-2/publication/342054764_Detection_Thresholds_for_Vertical_Gains_in_VR_and_Drone-based_Telepresence_Systems/links/5fbcc239299bf104cf6eab33/Detection-Thresholds-for-Vertical-Gains-in-VR-and-Drone-based-Telepresence-Systems.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
+
+- Havlík, Tomáš, et al. [Jumpinvr: Enhancing jump experience in a limited physical space](https://dl.acm.org/doi/abs/10.1145/3355355.3361895). SIGGRAPH Asia 2019 XR. 2019. 19-20.
 
 - Hayashi, Daigo, et al. [Redirected jumping: Imperceptibly manipulating jump motions in virtual reality](https://ieeexplore.ieee.org/abstract/document/8797989). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
 
