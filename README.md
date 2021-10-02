@@ -5,7 +5,7 @@ Awesome-RDW contains awesome papers about redirected walking.
 - Nilsson, Niels Christian, et al. [15 years of research on redirected walking in immersive virtual environments](https://www.gwern.net/docs/technology/2018-nilsson.pdf). IEEE computer graphics and applications 38.2 (2018): 44-56.
 
 ## Toolkit
-- Yi-Jun Li, Miao Wang, Frank Steinicke, Qinping Zhao. OpenRDW: A Redirected Walking Library and Benchmark with Multi-User, Learning-based Functionalities and State-of-the-art Algorithms. ISMAR 2021.
+- Yi-Jun Li, Miao Wang, Frank Steinicke, Qinping Zhao. OpenRDW: A Redirected Walking Library and Benchmark with Multi-User, Learning-based Functionalities and State-of-the-art Algorithms. 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2021.
 
 - Azmandian, Mahdi, et al. [The redirected walking toolkit: a unified development platform for exploring large virtual environments](https://ieeexplore.ieee.org/abstract/document/7859537/). 2016 IEEE 2nd Workshop on Everyday Virtual Reality (WEVR). IEEE, 2016.
 
@@ -111,7 +111,7 @@ Awesome-RDW contains awesome papers about redirected walking.
 - Jung, Sungchul, et al. [Redirected jumping: Perceptual detection rates for curvature gains](https://www.researchgate.net/profile/Sungchul_Jung/publication/336657886_Redirected_Jumping_Perceptual_Detection_Rates_for_Curvature_Gains/links/5daf30f4299bf111d4bfc084/Redirected-Jumping-Perceptual-Detection-Rates-for-Curvature-Gains.pdf). Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology. 2019.
 
 ## Passive Haptics
-- Ze-Yin Chen, Yi-Jun Li, Miao Wang, Frank Steinicke, Qinping Zhao. A Reinforcement Learning Approach to Redirected Walking with Passive Haptic Feedback. ISMAR 2021.
+- Ze-Yin Chen, Yi-Jun Li, Miao Wang, Frank Steinicke, Qinping Zhao. A Reinforcement Learning Approach to Redirected Walking with Passive Haptic Feedback. 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2021.
 
 - Thomas, Jerald, Courtney Hutton Pospick, and Evan Suma Rosenberg. [Towards Physically Interactive Virtual Environments: Reactive Alignment with Redirected Walking](https://illusioneering.cs.umn.edu/papers/thomas-vrst2020.pdf). 26th ACM Symposium on Virtual Reality Software and Technology. 2020.
 
