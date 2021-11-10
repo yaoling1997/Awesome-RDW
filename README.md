@@ -130,6 +130,8 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 
 ## Others
+- Matsumoto, Keigo, et al. [Redirected Walking using Noisy Galvanic Vestibular Stimulation](https://www.computer.org/csdl/proceedings-article/ismar/2021/015800a498/1yeCU92Xt5K). 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE Computer Society, 2021.
+
 - Rewkowski, Nicholas, et al. [Evaluating the Effectiveness of Redirected Walking with Auditory Distractors for Navigation in Virtual Environments](https://ieeexplore.ieee.org/abstract/document/8798286). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
 
 - Yu, Run, et al. [Experiencing an invisible World War I battlefield through narrative-driven redirected walking in virtual reality](https://ieeexplore.ieee.org/document/8448288). 2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2018.
