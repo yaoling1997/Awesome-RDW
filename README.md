@@ -10,7 +10,7 @@ Awesome-RDW contains awesome papers about redirected walking.
 - Azmandian, Mahdi, et al. [The redirected walking toolkit: a unified development platform for exploring large virtual environments](https://ieeexplore.ieee.org/abstract/document/7859537/). 2016 IEEE 2nd Workshop on Everyday Virtual Reality (WEVR). IEEE, 2016.
 
 ## Algorithms
-- Williams, Niall L., Aniket Bera, and Dinesh Manocha. [Redirected Walking in Static and Dynamic Scenes Using Visibility Polygons.](https://arxiv.org/pdf/2106.06807). IEEE TVCG-ISMAR Special Issue (2021).
+- N. Williams, A. Bera and D. Manocha, [Redirected Walking in Static and Dynamic Scenes Using Visibility Polygons](https://arxiv.org/pdf/2106.06807) in IEEE Transactions on Visualization & Computer Graphics, vol. 27, no. 11, pp. 4267-4277, 2021.
 
 - Williams, Niall L., Aniket Bera, and Dinesh Manocha. [Arc: Alignment-based redirection controller for redirected walking in complex environments](https://arxiv.org/pdf/2101.04912). IEEE Transactions on Visualization and Computer Graphics 27.5 (2021): 2535-2544.
 
@@ -63,6 +63,8 @@ Awesome-RDW contains awesome papers about redirected walking.
 
 
 ## Detection Thresholds
+- Sakono, H., Matsumoto, K., Narumi, T., & Kuzuoka, H. [Redirected Walking using Continuous Curvature Manipulation](https://www.computer.org/csdl/journal/tg/2021/11/09523890/1wpqBpgOKUE). IEEE Transactions on Visualization & Computer Graphics, 27.11 (2021): 4278-4288.
+
 - Kim, Dooyoung, et al. [Adjusting Relative Translation Gains According to Space Size in Redirected Walking for Mixed Reality Mutual Space Generation](https://ieeexplore.ieee.org/abstract/document/9417781/). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
 
 - Cho, Yong-Hun, et al. [Walking Outside the Box: Estimation of Detection Thresholds for Non-Forward Steps](https://ieeexplore.ieee.org/abstract/document/9417724/). 2021 IEEE Virtual Reality and 3D User Interfaces (VR). IEEE, 2021.
