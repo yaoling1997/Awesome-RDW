@@ -125,6 +125,8 @@ Awesome-RDW contains awesome papers about redirected walking/jumping.
 
 - Thomas, Jerald, and Evan Suma Rosenberg. [Reactive Alignment of Virtual and Physical Environments Using Redirected Walking](https://wevr.adalsimeone.me/2020/WEVR2020_Thomas.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2020.
 
+- Wang, Lili, et al. [A Constrained Path Redirection for Passive Haptics](https://drive.google.com/file/d/13fFzqUtNO8Pjf7b4Y_D2CqkaSjRu606Z/view). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2020.
+
 - Min, Dae-Hong, et al. [Shaking Hands in Virtual Space: Recovery in Redirected Walking for Direct Interaction between Two Users](https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a164/560800a164.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
 
 - Steinicke, Frank, et al. [Moving towards generally applicable redirected walking](https://www.researchgate.net/profile/Gerd-Bruder/publication/216813872_Moving_Towards_Generally_Applicable_Redirected_Walking/links/548594b00cf283750c372ad5/Moving-Towards-Generally-Applicable-Redirected-Walking.pdf). Proceedings of the Virtual Reality International Conference (VRIC). IEEE Press, 2008.
