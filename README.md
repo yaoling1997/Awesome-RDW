@@ -64,6 +64,8 @@ Awesome-RDW contains awesome papers about redirected walking/jumping.
 - Sun, Qi, Li-Yi Wei, and Arie Kaufman. [Mapping virtual and physical reality](https://dl.acm.org/doi/pdf/10.1145/2897824.2925883). ACM Transactions on Graphics (TOG) 35.4 (2016): 1-12.
 
 ### Resetting
+- Zhang, Song-Hai, et al. [Adaptive Optimization Algorithm for Resetting Techniques in Obstacle-ridden Environments](https://ieeexplore.ieee.org/abstract/document/9669131/). IEEE Transactions on Visualization and Computer Graphics (2022).
+
 - Williams, Betsy, et al. [Exploring large virtual environments with an HMD when physical space is limited](https://dl.acm.org/doi/pdf/10.1145/1272582.1272590?casa_token=Hz0T-uVRPO8AAAAA:z8jGLKUXsH7XrDyCSXpn47ikesbRVlwqLDxQ0krRRiJHltLK5DHbEeIIt28fCHy17HfbXFAB5JcMRrBq). Proceedings of the 4th symposium on Applied perception in graphics and visualization. 2007.
 
 
