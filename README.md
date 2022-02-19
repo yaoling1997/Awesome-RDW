@@ -2,7 +2,11 @@
 Awesome-RDW contains awesome papers about redirected walking/jumping.
 
 ## Survey or Summary
+- Eike Langbehn and Frank Steinicke. [Redirected Walking in Virtual Reality](https://www.semanticscholar.org/paper/Redirected-Walking-in-Virtual-Reality-Langbehn-Steinicke/d6b56cc6e05300426b6194dd3f6a38720678827e). Encyclopedia of Computer Graphics and Games (2019).
+
 - Nilsson, Niels Christian, et al. [15 years of research on redirected walking in immersive virtual environments](https://www.gwern.net/docs/technology/2018-nilsson.pdf). IEEE computer graphics and applications 38.2 (2018): 44-56.
+
+- Suma, Evan A., et al. [A taxonomy for deploying redirection techniques in immersive virtual environments](https://www.academia.edu/download/46411372/A_taxonomy_for_deploying_redirection_tec20160612-12333-80hgl8.pdf). 2012 IEEE Virtual Reality Workshops (VRW). IEEE, 2012.
 
 ## Toolkit
 - Yi-Jun Li, Miao Wang, Frank Steinicke, Qinping Zhao. [OpenRDW: A Redirected Walking Library and Benchmark with Multi-User, Learning-based Functionalities and State-of-the-art Algorithms](https://www.computer.org/csdl/proceedings-article/ismar/2021/015800a021/1yeD0KmODfO). 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2021.
@@ -27,8 +31,6 @@ Awesome-RDW contains awesome papers about redirected walking/jumping.
 - Hodgson, Eric, and Eric Bachmann. [Comparing four approaches to generalized redirected walking: Simulation and live user data](http://www.cs.ucf.edu/courses/cap6121/spr19/readings/hodgson.pdf). IEEE transactions on visualization and computer graphics 19.4 (2013): 634-643.
 
 - Suma, Evan A., et al. [Impossible spaces: Maximizing natural walking in virtual environments with self-overlapping architecture](https://ieeexplore.ieee.org/abstract/document/6165136). IEEE Transactions on Visualization and Computer Graphics 18.4 (2012): 555-564.
-
-- Suma, Evan A., et al. [A taxonomy for deploying redirection techniques in immersive virtual environments](https://www.academia.edu/download/46411372/A_taxonomy_for_deploying_redirection_tec20160612-12333-80hgl8.pdf). 2012 IEEE Virtual Reality Workshops (VRW). IEEE, 2012.
 
 - Suma, Evan A., et al. [Leveraging change blindness for redirection in virtual environments](https://d1wqtxts1xzle7.cloudfront.net/31011923/Leveraging_Change_Blindness_for_Redirection_in_Virtual_Environments.pdf?1364019056=&response-content-disposition=inline%3B+filename%3DLeveraging_change_blindness_for_redirect.pdf&Expires=1619172543&Signature=cjR0Y9NNS3FhzLFXyKHyXLvPh77TYmMWeEHSx~XMQCgl66pI3Ay3xrT5qp2VRE6kDXe-DOQfD9sFRzWMYLEOFrQ7RKJGUQJHyahEBPkW-duW4zee8hXzdvmFqo5C9E-oa8iwEmYE9QbBStc5bNK5I~5N82KEJg72iLWZQLsWeer2g0flJgQUqKBCHAC0X1HSYRxUQOiBdOgtvtd83miJAw~g-9BaDMZy~N7kl3g6Aa3pdgw8uDocK5WMlh5tZuHwfz~JJnRELCWsp~hap2Jb1UaY0pwAqOKDJP8AYOs3FT3wZbdRgmdifzdDUGjSCMv97gAZo5MpwOPT5I7k4nCZaA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). 2011 IEEE Virtual Reality Conference. IEEE, 2011.
 
