@@ -1,7 +1,7 @@
 # Awesome-Redirected Walking
 Awesome-RDW contains awesome papers about redirected walking/jumping.
 
-## Survey
+## Survey or Summary
 - Nilsson, Niels Christian, et al. [15 years of research on redirected walking in immersive virtual environments](https://www.gwern.net/docs/technology/2018-nilsson.pdf). IEEE computer graphics and applications 38.2 (2018): 44-56.
 
 ## Toolkit
