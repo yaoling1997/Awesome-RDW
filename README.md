@@ -14,6 +14,8 @@ Awesome-RDW contains awesome papers about redirected walking/jumping.
 - Azmandian, Mahdi, et al. [The redirected walking toolkit: a unified development platform for exploring large virtual environments](https://ieeexplore.ieee.org/abstract/document/7859537/). 2016 IEEE 2nd Workshop on Everyday Virtual Reality (WEVR). IEEE, 2016.
 
 ## Algorithms
+- Azmandian, Mahdi, et al. [Adaptive Redirection: A Context-Aware Redirected Walking Meta-Strategy](https://www.computer.org/csdl/journal/tg/5555/01/09715723/1B4hxCQXB4c). IEEE Transactions on Visualization & Computer Graphics 01 (2022): 1-1.
+
 - N. Williams, A. Bera and D. Manocha, [Redirected Walking in Static and Dynamic Scenes Using Visibility Polygons](https://arxiv.org/pdf/2106.06807) in IEEE Transactions on Visualization & Computer Graphics, vol. 27, no. 11, pp. 4267-4277, 2021.
 
 - Williams, Niall L., Aniket Bera, and Dinesh Manocha. [Arc: Alignment-based redirection controller for redirected walking in complex environments](https://arxiv.org/pdf/2101.04912). IEEE Transactions on Visualization and Computer Graphics 27.5 (2021): 2535-2544.
@@ -143,6 +145,8 @@ Awesome-RDW contains awesome papers about redirected walking/jumping.
 
 
 ## Others
+- Azmandian, Mahdi, et al. [Validating simulation-based evaluation of redirected walking systems](https://www.computer.org/csdl/journal/tg/5555/01/09715721/1B4hxt06P9m). IEEE Transactions on Visualization & Computer Graphics 01 (2022): 1-1.
+
 - Matsumoto, Keigo, et al. [Redirected Walking using Noisy Galvanic Vestibular Stimulation](https://www.computer.org/csdl/proceedings-article/ismar/2021/015800a498/1yeCU92Xt5K). 2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE Computer Society, 2021.
 
 - Rewkowski, Nicholas, et al. [Evaluating the Effectiveness of Redirected Walking with Auditory Distractors for Navigation in Virtual Environments](https://ieeexplore.ieee.org/abstract/document/8798286). 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2019.
