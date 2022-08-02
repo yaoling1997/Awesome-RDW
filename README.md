@@ -50,6 +50,8 @@ Awesome-RDW contains awesome papers about redirected walking/jumping.
 - Bachmann, Eric R., et al. [Multi-user redirected walking and resetting using artificial potential fields](https://www.cs.purdue.edu/cgvlab/courses/490590VR/notes/VRLocomotion/MultiuserRedirectedWalking/APFRedirectedWalking2019.pdf). IEEE transactions on visualization and computer graphics 25.5 (2019): 2022-2031.
 
 ### Learning-Based
+- Jeon, Sang-Bin, et al. [Dynamic optimal space partitioning for redirected walking in multi-user environment](https://dl.acm.org/doi/abs/10.1145/3528223.3530113). ACM Transactions on Graphics (TOG) 41.4 (2022): 1-14.
+
 - Strauss, Ryan R., et al. [A steering algorithm for redirected walking using reinforcement learning](https://tabithapeck.com/wp-content/uploads/2020/04/tvcg-strauss-2973060-x.pdf). IEEE transactions on visualization and computer graphics 26.5 (2020): 1955-1963.
 
 - Lee, Dong-Yong, et al. [Optimal Planning for Redirected Walking Based on Reinforcement Learning in Multi-user Environment with Irregularly Shaped Physical Space](https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a155/560800a155.pdf). 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR). IEEE, 2020.
