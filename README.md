@@ -2,6 +2,8 @@
 Awesome-RDW contains awesome papers about redirected walking/jumping.
 
 ## Survey or Summary
+- Li, Yi-Jun, Frank Steinicke, and Miao Wang. [A Comprehensive Review of Redirected Walking Techniques: Taxonomy, Methods, and Future Directions](https://link.springer.com/article/10.1007/s11390-022-2266-7). Journal of Computer Science and Technology 37.3 (2022): 561-583.
+
 - Eike Langbehn and Frank Steinicke. [Redirected Walking in Virtual Reality](https://www.semanticscholar.org/paper/Redirected-Walking-in-Virtual-Reality-Langbehn-Steinicke/d6b56cc6e05300426b6194dd3f6a38720678827e). Encyclopedia of Computer Graphics and Games (2019).
 
 - Nilsson, Niels Christian, et al. [15 years of research on redirected walking in immersive virtual environments](https://www.gwern.net/docs/technology/2018-nilsson.pdf). IEEE computer graphics and applications 38.2 (2018): 44-56.
